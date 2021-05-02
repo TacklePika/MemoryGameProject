@@ -1,4 +1,4 @@
- /* Memory Game Javascript source code from external source: Code with Ania Kubow YouTube video tutorial */
+/* Memory Game Javascript source code from external source: Code with Ania Kubow YouTube video tutorial */
  
  /* card section */
     const allCards = [
@@ -27,14 +27,6 @@
         img: 'images/fox.jpg'
     },
     {
-        name: 'koala',
-        img: 'images/koala.jpg'
-    },
-    {
-        name: 'koala',
-        img: 'images/koala.jpg'
-    },
-    {
         name: 'leopard',
         img: 'images/leopard.jpg'
     },
@@ -58,30 +50,6 @@
         name: 'rhino',
         img: 'images/rhino.jpg'
     },
-    {
-        name: 'tiger',
-        img: 'images/tiger.jpg'
-    },
-    {
-        name: 'tiger',
-        img: 'images/tiger.jpg'
-    },
-    {
-        name: 'turtle',
-        img: 'images/turtle.jpg'
-    },
-    {
-        name: 'turtle',
-        img: 'images/turtle.jpg'
-    },
-    {
-        name: 'zebra',
-        img: 'images/zebra.jpg'
-    },
-    {
-        name: 'zebra',
-        img: 'images/zebra.jpg'
-    }
 ]
 
 /* board section */
@@ -118,7 +86,7 @@ function checkMatch() {
         points++;
         score.textContent = points;
         if(points===cards.length/2) {
-            setTimeout(()=>alert("You win!!!"), 10)
+            setTimeout(()=>alert("WELL DONE!!!"), 10)
         }
     } else {
         cards[boardId1].setAttribute("src","./images/bricks.jpg");

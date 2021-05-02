@@ -22,7 +22,7 @@ The Montserrat Alternates font is the main font with Sans Serif as the fallback 
 Images are crucial for a memory game. They must be clear and eye-catching to capture children's attention. They need to be distinct and easily identifiable so the player can remember them.
 ### Wireframe
 - Home page
-- Games (8 cards, 12 cards and 16 cards)
+- Games (12 cards, 18 cards and 24 cards)
 
 ## Features
 - Responsive on computer and mobile devices
@@ -36,10 +36,10 @@ Images are crucial for a memory game. They must be clear and eye-catching to cap
 ### Frameworks / Libraries / Programmes Used
 - Google Fonts is used to import font type.
 - Font Awesome is used to import icons.
-- Unsplash.com is used to import images (Susan Holt Simpson: blocks / Macus Spiske: children / Element5 Digital: learning).
 - Git is used with Gitpod terminal to commit to Git and push to GitHub.
 - GitHub is used to store the projects code after being pushed from Git.
-- Figma is used to create the wireframes. 
+- Figma is used to create the wireframes.
+- Unsplash.com is used to import images.
 
 ## Testing Tools
 The following tools are used to validate each page to ensure there are no syntax erros:
@@ -55,6 +55,24 @@ The following tools are used to validate each page to ensure there are no syntax
 ## Deployment
 
 ## Credits
+All photographs downloaded free from Unsplash.com:
+- bird by Boris Smokrovic 
+- blocks by Susan Holt Simpson
+- bricks by Patrick Tomasso 
+- camel by Saj Shafique
+- elephant by Alessandro Desantis
+- fox by Ray Hennessy
+- kids by Macus Spiske
+- koala by Jordan Whitt 
+- learning by Element5 Digital
+- leopard by Gwen Weustink
+- lion by Francesco De Tommaso
+- panda by Yu Wang
+- rhino by Ronald Gijezen
+- tiger by Kartikeya Srivastava
+- turtle by Wexor Tmg
+- white by Olga Thelavart
+- zebra by Frida Bredesen
 
 ## Content
 
