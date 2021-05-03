@@ -38,7 +38,7 @@ https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A14
 https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 
 ## Features
-- Responsive on computer and mobile devices
+- Responsive on desktop and mobile devices
 - Interactive elements
 
 ## Technologies
