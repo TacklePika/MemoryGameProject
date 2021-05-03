@@ -1,6 +1,4 @@
- /* Memory Game Javascript source code from external source: Code with Ania Kubow YouTube video tutorial */
- 
- /* card section */
+/* matching cards section */
     const allCards = [
     {
         name: 'camel',
@@ -75,9 +73,10 @@
         img: 'images/zebra.jpg'
     }
 ]
+/* end of card section */
 
 /* board section */
-
+ /* Memory Game Javascript source code from external source: Code with Ania Kubow YouTube video tutorial */
 allCards.sort(() => 0.5 - Math.random())
 
 const grid = document.getElementsByClassName("grid")[0];
@@ -138,3 +137,4 @@ function flipCard() {
 }
 
 createBoard()
+/* end of board section */

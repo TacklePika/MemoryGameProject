@@ -1,9 +1,8 @@
 # Code Institute Milestone Project 2
 
 ## User Experience (UX)
-The primary goal is to provide an appealing and fun memory game for children 3 - 7 years old.
-
-## User Story
+The primary goal is to provide an appealing and fun memory game for children 3 - 6 years old.
+### User Story
 The game should be intuitive and easy to navigate for young players. Parents should be able to easily demonstrate the game to their children if necessary.
 
 ## Goals
@@ -20,9 +19,23 @@ Bright and coordinating colours are used to appeal to young children.
 The Montserrat Alternates font is the main font with Sans Serif as the fallback font. This font looks fun and informal.
 ### Images 
 Images are crucial for a memory game. They must be clear and eye-catching to capture children's attention. They need to be distinct and easily identifiable so the player can remember them.
-### Wireframe
+
+## Wireframe
+### Desktop
 - Home page
+https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=3%3A3
 - Games (12 cards, 18 cards and 24 cards)
+https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=3%3A4
+### Tablet
+- Home page
+https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=3%3A25
+- Games (12 cards, 18 cards and 24 cards)
+https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=3%3A26
+### Mobile phone
+- Home page
+https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A14
+- Games (12 cards, 18 cards and 24 cards)
+https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 
 ## Features
 - Responsive on computer and mobile devices
@@ -36,10 +49,10 @@ Images are crucial for a memory game. They must be clear and eye-catching to cap
 ### Frameworks / Libraries / Programmes Used
 - Google Fonts is used to import font type.
 - Font Awesome is used to import icons.
+- Unsplash.com is used to import images.
 - Git is used with Gitpod terminal to commit to Git and push to GitHub.
 - GitHub is used to store the projects code after being pushed from Git.
 - Figma is used to create the wireframes.
-- Unsplash.com is used to import images.
 
 ## Testing Tools
 The following tools are used to validate each page to ensure there are no syntax erros:
@@ -79,5 +92,3 @@ All photographs downloaded free from Unsplash.com:
 ## Media
 
 ## Acknowledgements
-
-

@@ -17,6 +17,7 @@
      float: left;
      line-height: 110px;
      color: lightseagreen;
+     font-weight: bold;
 }
  .menu{
      float: right;
@@ -123,6 +124,9 @@
  .item__img img {
      width: 100%;
      height: 18.750rem;
+}
+ .item i {
+     color: lightseagreen;
 }
 /* end of body text */
 
