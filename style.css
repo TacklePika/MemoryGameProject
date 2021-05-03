@@ -141,11 +141,26 @@
 }
 /* end of score area */
 
+/* button */
+#restart {
+    background-color: lightseagreen;
+    padding: 0.5em;
+    border-radius: 6px;
+    border: none;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    float: right;
+    margin-right: 1rem;
+}
+/* end of button */
+
 /* grid */
 .grid {
     position: flex;
+    flex-wrap: wrap;
     padding-top: 5rem;
-    padding-left: 5rem;
+    padding-left: 10.5rem;
     padding-right: 2rem;
     width: 800px;
     height: 400px;
@@ -187,11 +202,23 @@
     }
     .grid {
     position: fixed;
-    padding-top: 5rem;
+    padding-top: 6rem;
     padding-left: 1.25rem;
     padding-right: 0.1rem;
     width: 400px;
     height: 400px;
+    }
+    #restart {
+    background-color: lightseagreen;
+    padding: 0.5em;
+    border-radius: 6px;
+    border: none;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    float: right;
+    margin-top: -3rem;
+    margin-right: 0.5rem;
     }
 }
 /* Responsive layout code from external source: Stackoverflow User w3debugger tutorial */
@@ -217,6 +244,78 @@
      .item:nth-child(even) .item__img, .item:nth-child(odd) .item__img{
          display: none;
     }
+    .grid {
+    position: fixed;
+    padding-top: 6rem;
+    padding-left: 1.25rem;
+    padding-right: 0.1rem;
+    padding-left: 10rem;
+    width: 500px;
+    height: 400px;
+    }
+    #restart {
+    background-color: lightseagreen;
+    padding: 0.5em;
+    border-radius: 6px;
+    border: none;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    float: right;
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    }
 }
-
+@media screen and (max-width: 400px){
+     .show-menu-btn, .hide-menu-btn{
+         display: block;
+    }
+     .menu{
+         position: fixed;
+         width: 100%;
+         height: 100vh;
+         background: lightseagreen;
+         right: -100%;
+         top: 0;
+         text-align: center;
+         padding: 80px 0;
+         line-height: normal;
+         transition: 0.7s;
+    }
+     .menu a{
+         display: block;
+         padding: 20px;
+    }
+     .hide-menu-btn{
+         position: absolute;
+         top: 40px;
+         right: 40px;
+    }
+     #chk:checked ~ .menu{
+         right: 0;
+    }
+     #photo{
+         column-count:3;
+    }
+    .grid {
+    position: fixed;
+    padding-top: 6rem;
+    padding-left: 1.25rem;
+    padding-right: 0.1rem;
+    width: 400px;
+    height: 400px;
+    }
+    #restart {
+    background-color: lightseagreen;
+    padding: 0.5em;
+    border-radius: 6px;
+    border: none;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    float: right;
+    margin-top: -3rem;
+    margin-right: 0.5rem;
+    }
+}
 /* end of media queries */
