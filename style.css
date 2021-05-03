@@ -151,7 +151,8 @@
     color: whitesmoke;
     font-size: 18px;
     float: right;
-    margin-right: 1rem;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
 }
 /* end of button */
 
@@ -160,9 +161,9 @@
     position: flex;
     flex-wrap: wrap;
     padding-top: 5rem;
-    padding-left: 10.5rem;
-    padding-right: 2rem;
-    width: 800px;
+    padding-left: 15rem;
+    padding-right: -20rem;
+    width: 600px;
     height: 400px;
 }
 /* end of grid */
