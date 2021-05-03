@@ -18,7 +18,7 @@ Bright and coordinating colours are used to appeal to young children.
 ### Font Type
 The Montserrat Alternates font is the main font with Sans Serif as the fallback font. This font looks fun and informal.
 ### Images 
-Images are crucial for a memory game. They must be clear and eye-catching to capture children's attention. They need to be distinct and easily identifiable so the player can remember them.
+Images are crucial for a memory game. They must be clear and eye-catching to capture children's attention. They need to be distinct and easily identifiable so the player can remember them. Image size is optimised for viewing across platforms with particular consideration to fit on handheld devices. Animal images are chosen for young children which they might already be familiar with. 
 
 ## Wireframe
 ### Desktop
