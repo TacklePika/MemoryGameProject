@@ -263,6 +263,7 @@
     margin-right: 1rem;
     }
 }
+/* Responsive layout code from external source: Stackoverflow User w3debugger tutorial */
 @media screen and (max-width: 400px){
      .show-menu-btn, .hide-menu-btn{
          display: block;

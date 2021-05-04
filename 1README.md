@@ -21,7 +21,7 @@ The Montserrat Alternates font is the main font with Sans Serif as the fallback 
 - Images are crucial for a memory game. 
 - They must be clear and eye-catching to capture children's attention. 
 - They need to be distinct and easily identifiable so the player can remember them. 
-- Image size is optimised with particular consideration to fit on mobile devices as this is likely to be the platform where children will play the game with. 
+- Image size is optimised with particular consideration to fit on mobile devices as this is likely to be the main platform where children will play the game with. 
 - Animal images are chosen for young children which they might already be familiar with. 
 
 ## Wireframe
@@ -43,7 +43,7 @@ https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 
 ## Features
 - Responsive on desktop and mobile devices with parituclar emphasis on the latter which is the main platform for playing games.
-- Interactive elements where player can flip the cards to match them and clear them from the game board area. 
+- Interactive elements where player can flip the cards to match and clear them from the game board area. 
 
 ## Technologies
 ### Languages Used
@@ -77,8 +77,8 @@ The following tools are used to validate each page to ensure there are no syntax
 
 ## Further Testing
 - The website is tested on various browers including Google Chrome, Safari and Firefox.
-- The website is also viewed on a variety of devices using the Inspect function across platforms such as desktop, iPad and iPhone to ensure that it is responsive.
-- Testing is done to ensure there are no broken links between the homepage and gaming levels.\
+- The website is also viewed on a variety of devices using the Google Chrome Inspect tool function across platforms such as desktop, iPad and iPhone to ensure that it is responsive and displays all content.
+- Testing is done to ensure there are no broken links between the homepage and gaming levels.
 
 ## Bugs
 - On some mobile devices the game board pushes towards the right when displayed.
