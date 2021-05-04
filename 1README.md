@@ -60,12 +60,17 @@ https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 
 ## Testing Tools
 Pages were checked using DevTools.
-HTML codes are checked using W3C HTML Validator and beautified using HTML Formatter.
-- index.html https://validator.w3.org/nu/#l33c11
-- easy.html https://validator.w3.org/nu/#textarea
-- medium.html https://validator.w3.org/nu/#textarea
-- hard.html https://validator.w3.org/nu/#textarea
-CSS code are checked using W3C CSS Validator and beautified using CSS Formatter.
+### HTML codes are checked using W3C HTML Validator and beautified using HTML Formatter:
+- index.html results https://validator.w3.org/nu/#l33c11
+- easy.html results https://validator.w3.org/nu/#textarea
+- medium.html results https://validator.w3.org/nu/#textarea
+- hard.html results https://validator.w3.org/nu/#textarea
+### CSS codes are checked using W3C CSS Validator and beautified using CSS Formatter:
+- style.css results https://jigsaw.w3.org/css-validator/validator
+### Javascript codes are checked and beautified using beautifytools Javascript Validator and Beautifier: 
+- 12-index.js results https://beautifytools.com/javascript-validator.php
+- 18-index.js results https://beautifytools.com/javascript-validator.php
+- 24-index.js results https://beautifytools.com/javascript-validator.php
 
 ## Testing User Story / UX
 - Upon entering the site, parents and children are welcomed by a colouful homepage with an hero image of young children and educational images. 
