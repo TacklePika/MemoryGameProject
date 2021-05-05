@@ -93,7 +93,7 @@ Pages were checked using DevTools.
 
 ## Bugs
 - When using the Google Chrome Inspect tool, the game board is pushed towards the right when displayed on some mobile devices.
-- The restart button is not levelled with the score counter when being moved across responsive screenx.
+- The restart button is not levelled with the score counter when being moved across responsive screens.
 
 ## Deployment
 The project is deployed to GitHub as follows:
