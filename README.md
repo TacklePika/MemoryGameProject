@@ -111,7 +111,7 @@ The project is deployed to GitHub as follows:
 
 ## Credits
 ## Code
-Below are links to the video tutorials from which external codes were used:
+Below are links to tutorials from which external codes were used:
 - YouTuber DarkCode - Responsive Menu Navigation Using Only HTML & CSS 
 https://www.youtube.com/watch?v=cQ6YQ8K5MRw
 - Stackoverflow User w3debugger - 2 Columns layout in CSS 
@@ -122,7 +122,7 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive
 https://www.w3schools.com/howto/howto_css_responsive_form.asp
 - YouTuber Ania Kubow - Make Memory Game in Javascript, HTML and CSS 
 https://youtu.be/tjyDOHzKN0w
-- codegrepper.com - Refresh button snippet 
+- codegrepper.com - Refresh button snippet                     
 https://www.codegrepper.com/search.php?q=refresh%20button
 
 ## Content
