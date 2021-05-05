@@ -104,7 +104,9 @@ The project is deployed to GitHub as follows:
 - Regularly commit all files and images on Github for progress tracking.
 - Push and commit all files from Github ready for submission.
 - Recheck Readme file and all files prior to final commit.
-- Locate Master branch in Repository and select drop down menu from Code for the published HTTPS link. 
+- Locate GitHub pages under Settings in Repository.
+- Under Source click dropdown menu, select the Master branch and save.
+- Return to GitHub pages and the published site link is displayed. 
 
 ## Credits
 ## Code
