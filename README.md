@@ -20,7 +20,7 @@ The Montserrat Alternates font is the main font with Sans Serif as the fallback 
 ### Images 
 - Images are crucial for a memory game. 
 - They must be clear and eye-catching to capture children's attention. 
-- They need to be distinct and easily identifiable so the player can remember them. 
+- They need to be easily identifiable so the player can remember them. 
 - Image size is optimised with particular consideration to fit on mobile devices as this is likely to be the main platform where children will play the game with. 
 - Animal images are chosen for young children which they might already be familiar with. 
 
@@ -80,6 +80,7 @@ Pages were checked using DevTools.
 - For each gaming page, there is a counter to record the score, a grid to show the cards for each corresponding level (3x4, 3x6 and 3x8). 
 - There is a restart button should the player wish to play another game.
 - All pages are clean with emphasis on the game board which shows a range of animal photograph cards.
+- There is sufficient time for the cards to be displayed when being flipped over to help children to memorise the images. 
 - The games are designed not to entrap the players with a timer, but to let them complete the game in their own timeframe.  
 - There are no social media links which are not appropriate for young children.
 - The player can learn through playing the game and improve their cognitive skills and to have fun.    
@@ -92,7 +93,7 @@ Pages were checked using DevTools.
 
 ## Bugs
 - When using the Google Chrome Inspect tool, the game board is pushed towards the right when displayed on some mobile devices.
-- The restart button is not levelled with the score counter when being moved across responsive screen.
+- The restart button is not levelled with the score counter when being moved across responsive screenx.
 
 ## Deployment
 The project is deployed to GitHub as follows:
@@ -111,22 +112,28 @@ The project is deployed to GitHub as follows:
 ## Credits
 ## Code
 Below are links to the video tutorials from which external codes were used:
-- YouTuber DarkCode - Responsive Menu Navigation Using Only HTML & CSS https://www.youtube.com/watch?v=cQ6YQ8K5MRw
-- Stackoverflow User w3debugger - 2 Columns layout in CSS https://stackoverflow.com/questions/29395613/two-columns-layout-in-css-text-and-image-changing-order-in-each-row/29395830#29395830
-- w3schools.com - Responsive Image Gallery https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive
-- w3schools.com - HOW TO Responsive Form https://www.w3schools.com/howto/howto_css_responsive_form.asp
-- YouTuber Ania Kubow - Make Memory Game in Javascript, HTML and CSS https://youtu.be/tjyDOHzKN0w
-- codegrepper.com - Refresh button snippet https://www.codegrepper.com/search.php?q=refresh%20button
+- YouTuber DarkCode - Responsive Menu Navigation Using Only HTML & CSS 
+https://www.youtube.com/watch?v=cQ6YQ8K5MRw
+- Stackoverflow User w3debugger - 2 Columns layout in CSS 
+https://stackoverflow.com/questions/29395613/two-columns-layout-in-css-text-and-image-changing-order-in-each-row/29395830#29395830
+- w3schools.com - Responsive Image Gallery 
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive
+- w3schools.com - HOW TO Responsive Form 
+https://www.w3schools.com/howto/howto_css_responsive_form.asp
+- YouTuber Ania Kubow - Make Memory Game in Javascript, HTML and CSS 
+https://youtu.be/tjyDOHzKN0w
+- codegrepper.com - Refresh button snippet 
+https://www.codegrepper.com/search.php?q=refresh%20button
 
 ## Content
 Following advice from mentor, improvements were made as follows:
-- Restart button added to refresh game page insteaad of having to click on menu.
+- Restart button added to refresh game page instead of having to click on menu.
 - Grid system was adjusted to improve positioning of the game board. 
 - Readme file was updated to include more details of the whole development and testing processes.
 - Testing section was elaborated to include test results.
 
 ## Media
-All photographs downloaded free from Unsplash.com:
+All photographs are free downloads from Unsplash.com:
 - bird by Boris Smokrovic 
 - blocks by Susan Holt Simpson
 - bricks by Patrick Tomasso 
