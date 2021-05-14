@@ -19,8 +19,8 @@ Bright and coordinating colours are used to appeal to young children.
 The Montserrat Alternates font is the main font with Sans Serif as the fallback font. This font looks fun and informal.
 ### Images 
 - Images are crucial for a memory game. 
-- They must be clear and eye-catching to capture children's attention. 
-- They need to be easily identifiable so the player can remember them. 
+- They must be eye-catching to capture children's attention. 
+- They need to be identifiable so the player can remember them. 
 - Image size is optimised with particular consideration to fit on mobile devices as this is likely to be the main platform where children will play the game with. 
 - Animal images are chosen for young children which they might already be familiar with. 
 
@@ -59,18 +59,10 @@ https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 - Figma is used to create the wireframes.
 
 ## Testing Tools
-Pages were checked using DevTools.
-#### HTML codes are checked using W3C HTML Validator and beautified using HTML Formatter:
-- index.html results https://validator.w3.org/nu/#l33c11
-- easy.html results https://validator.w3.org/nu/#textarea
-- medium.html results https://validator.w3.org/nu/#textarea
-- hard.html results https://validator.w3.org/nu/#textarea
-#### CSS codes are checked using W3C CSS Validator and beautified using CSS Formatter:
-- style.css results https://jigsaw.w3.org/css-validator/validator
-#### Javascript codes are checked and beautified using beautifytools Javascript Validator and Beautifier: 
-- 12-index.js results https://beautifytools.com/javascript-validator.php
-- 18-index.js results https://beautifytools.com/javascript-validator.php
-- 24-index.js results https://beautifytools.com/javascript-validator.php
+- Pages were checked using Chrome DevTools.
+- HTML codes are checked using W3C HTML Validator and beautified using HTML Formatter.
+- CSS codes are checked using W3C CSS Validator and beautified using CSS Formatter.
+- Javascript codes are checked and beautified using beautifytools Javascript Validator and Beautifier.
 
 ## Testing User Story / UX
 - Upon entering the site, parents and children are welcomed by a colouful homepage with an hero image of young children and educational images. 
@@ -94,6 +86,8 @@ Pages were checked using DevTools.
 ## Bugs
 - When using the Google Chrome Inspect tool, the game board is pushed towards the right when displayed on some mobile devices.
 - The restart button is not levelled with the score counter when being moved across responsive screens.
+- The grid remains uniform in size across plateforms which works well on mobile devices but does not stretch across on full computer screen.
+- Animal images would be distorted if they were made to stretch across full screen, hence decision was taken to keep them as they are in the current grid layout. 
 
 ## Deployment
 The project is deployed to GitHub as follows:
@@ -156,3 +150,4 @@ All photographs are free downloads from Unsplash.com:
 - I received inspiration for this project from Code Institute. 
 - My mentor, Medale Oluwafemi, has provided positive and helpful feedback at Skype call sessions.
 - The Slack community has helped to maintain the initiative and motivation.  
+- Online free tutorials have proven to be extremely helpful in consolidating my understanding. 

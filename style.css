@@ -186,6 +186,19 @@
 
 /* button */
 
+.play {
+	background-color: lightseagreen;
+	padding: 0.5em;
+	border-radius: 6px;
+	border: none;
+	text-decoration: none;
+	color: whitesmoke;
+	font-size: 18px;
+	float: right;
+	margin-right: 2rem;
+	margin-top: 0.5rem;
+}
+
 #restart {
 	background-color: lightseagreen;
 	padding: 0.5em;
@@ -261,8 +274,19 @@
 		padding-left: 1.25rem;
 		padding-right: 0.1rem;
 		width: 400px;
-		height: 400px;
-	}
+        height: 400px;
+    }
+    .play {
+	background-color: lightseagreen;
+	padding: 0.5em;
+	border-radius: 6px;
+	border: none;
+	text-decoration: none;
+	color: whitesmoke;
+    font-size: 18px;
+    justify-content: center;
+    margin-right: 6.5rem;
+    }
 	#restart {
 		background-color: lightseagreen;
 		padding: 0.5em;
@@ -310,7 +334,7 @@
 		padding-left: 12rem;
 		width: 500px;
 		height: 400px;
-	}
+    }
 	#restart {
 		background-color: lightseagreen;
 		padding: 0.5em;
