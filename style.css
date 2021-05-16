@@ -346,7 +346,18 @@
 		float: right;
 		margin-top: 0.15rem;
 		margin-right: 1rem;
-	}
+    }
+    .play {
+	background-color: lightseagreen;
+	padding: 0.5em;
+	border-radius: 6px;
+	border: none;
+	text-decoration: none;
+	color: whitesmoke;
+    font-size: 18px;
+    justify-content: center;
+    margin-right: 19.5rem;
+    }
 }
 
 
@@ -404,7 +415,17 @@
 		margin-top: -3rem;
 		margin-right: 1rem;
 	}
+    .play {
+	background-color: lightseagreen;
+	padding: 0.5em;
+	border-radius: 6px;
+	border: none;
+	text-decoration: none;
+	color: whitesmoke;
+    font-size: 18px;
+    justify-content: center;
+    margin-right: 6.5rem;
+    }
 }
-
 
 /* end of media queries */
