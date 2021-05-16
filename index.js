@@ -1,5 +1,5 @@
 /* matching cards section */
-/* Three gameboard cards merged into one document with help from mentor  */
+/* Three gameboard cards merged into one document at mentoring session  */
 
 const TWELVE_CARDS = [
   {
