@@ -239,8 +239,8 @@ function setCards(cardNumber) {
    allCards.sort(() => 0.5 - Math.random());
    createBoard();
 }
-
 /* end of card section */
+
 /* game board section */
 /* Memory Game Javascript source code from external source: Code with Ania Kubow YouTube video tutorial */
 /* allCards.sort(() => 0.5 - Math.random()); */
@@ -301,8 +301,8 @@ function flipCard() {
     compareArray = [];
   }
 }
-
 /* end of board section */
+
 /* restart button */
 /* Javascript source code from external source: codegrepper.com tutorial */
 const reloadButton = document.querySelector("#restart");
