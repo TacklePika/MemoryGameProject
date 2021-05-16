@@ -1,4 +1,6 @@
 /* matching cards section */
+/* Three gameboard cards merged into one document with help from mentor  */
+
 const TWELVE_CARDS = [
   {
     name: "camel",

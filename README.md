@@ -124,7 +124,7 @@ https://www.codegrepper.com/search.php?q=refresh%20button
 Following advice from mentor, improvements were made as follows:
 - Restart button added to refresh game page instead of having to click on menu.
 - Game board was adjusted to improve positioning when viewing across devices. 
-- Javascript codes merged for cleaner coding.
+- Javascript codes written in 3 separate javascript documents were merged into one for cleaner coding and less repetition.
 - Play button added to facilitate game play.
 - Readme file was updated to include more details of the whole development and testing processes.
 - Testing results checked. 
