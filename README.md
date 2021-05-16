@@ -1,4 +1,4 @@
-# Code Institute Milestone Project 2
+# Code Institute Milestone Project 2 Memory Game for Preschoolers
 
 ## User Experience (UX)
 The primary goal is to provide an appealing and fun memory game for children aged 3 - 6 years old.
