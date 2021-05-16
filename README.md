@@ -67,6 +67,7 @@ https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 ## Testing User Story / UX
 - Upon entering the site, parents and children are welcomed by a colouful homepage with an hero image of young children and educational images. 
 - The homepage states the potential benefits of memory game and provides game instructions.
+- There is a button to start the game at easy level under instructions. 
 - The navigation menu shows 3 levels of difficulty: easy, medium and hard.
 - The difficulty options are easy to select by click of a button and will bring the player to the relevant page. 
 - For each gaming page, there is a counter to record the score, a grid to show the cards for each corresponding level (3x4, 3x6 and 3x8). 
@@ -86,8 +87,8 @@ https://www.figma.com/file/PkgJE9RJw4JuNpjd3AvQmO/memory-game?node-id=4%3A15
 ## Bugs
 - When using the Google Chrome Inspect tool, the game board is pushed towards the right when displayed on some mobile devices.
 - The restart button is not levelled with the score counter when being moved across responsive screens.
-- The grid remains uniform in size across plateforms which works well on mobile devices but does not stretch across on full computer screen.
-- Animal images would be distorted if they were made to stretch across full screen, hence decision was taken to keep them as they are in the current grid layout. 
+- The game board remains uniform in size across plateforms which works well on mobile devices but does not stretch across on full computer screen.
+- Decision was taken to keep them as they are in the current game board layout to avoid any image distortion.
 
 ## Deployment
 The project is deployed to GitHub as follows:
@@ -122,9 +123,11 @@ https://www.codegrepper.com/search.php?q=refresh%20button
 ## Content
 Following advice from mentor, improvements were made as follows:
 - Restart button added to refresh game page instead of having to click on menu.
-- Grid system was adjusted to improve positioning of the game board. 
+- Game board was adjusted to improve positioning when viewing across devices. 
+- Javascript codes merged for cleaner coding.
+- Play button added to facilitate game play.
 - Readme file was updated to include more details of the whole development and testing processes.
-- Testing section was elaborated to include test results.
+- Testing results checked. 
 
 ## Media
 All photographs are free downloads from Unsplash.com:
@@ -148,6 +151,6 @@ All photographs are free downloads from Unsplash.com:
 
 ## Acknowledgements
 - I received inspiration for this project from Code Institute. 
-- My mentor, Medale Oluwafemi, has provided positive and helpful feedback at Skype call sessions.
+- My mentor, Medale Oluwafemi, has provided helpful feedback at Skype call sessions.
 - The Slack community has helped to maintain the initiative and motivation.  
 - Online free tutorials have proven to be extremely helpful in consolidating my understanding. 
